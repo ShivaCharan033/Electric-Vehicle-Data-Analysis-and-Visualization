@@ -27,3 +27,26 @@ This chart illustrates the increase in **Battery Electric Vehicles (BEV)** and *
 
 ### **3️⃣ Classification Model Results**
 We built a **machine learning classification model** to predict EV trends, achieving **high accuracy**:
+
+![Classification Report](Screenshot_2024-04-28_at_8.34.05_PM.png)
+
+---
+
+### **4️⃣ Scatter Plot Matrix**
+This visualization analyzes **price, range, and model year correlations** among different EV models.
+![Scatter Plot](WhatsApp_Image_2024-04-28_at_20.23.18.jpeg)
+
+---
+
+## 🔍 Machine Learning Model
+- **Classification**: Trained a machine learning model to **classify EV types and adoption trends**.
+- **Performance**: Achieved **near-perfect accuracy**, suggesting strong patterns in EV adoption.
+
+---
+
+## ⚙️ How to Run This Project
+### **1️⃣ Clone the Repository**
+```sh
+git clone https://github.com/yourusername/electric-vehicle-analysis.git
+cd electric-vehicle-analysis
+
