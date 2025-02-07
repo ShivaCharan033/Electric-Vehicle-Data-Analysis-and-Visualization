@@ -57,10 +57,3 @@ Edit
 - **Performance**: Achieved **near-perfect accuracy**, suggesting strong patterns in EV adoption.
 
 ---
-
-## ⚙️ How to Run This Project
-
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/yourusername/electric-vehicle-analysis.git
-cd electric-vehicle-analysis
