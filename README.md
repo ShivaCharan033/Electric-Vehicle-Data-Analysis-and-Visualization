@@ -17,7 +17,7 @@ It visualizes **vehicle population distributions, tracks historical adoption tre
 ### **1️⃣ Geospatial Heatmap**
 📍 This heatmap highlights **EV adoption across the U.S.**, with regions like Seattle and California showing the highest concentration.
 
-![EV Heatmap](images/ev_heatmap.png)  
+![EV Heatmap](/Users/charan/Desktop/Semesters/SEM_2/AIT614/FINAL PROJECT/WhatsApp Image 2024-04-28 at 20.25.00 (1).jpeg)  
 *(Replace `images/ev_heatmap.png` with your actual uploaded image path)*
 
 ---
